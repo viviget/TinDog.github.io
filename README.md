@@ -1,2 +1,2 @@
 # TinDog.github.io
-A date app for dogs!
+A dating app for dogs!
